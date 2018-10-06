@@ -1,6 +1,6 @@
-# BitSend masternode guide
+# BitCloud masternode guide
 
-### **Welcome to step by step BitSend masternode guide (based on Windows desktop wallet and Linux VPS). Follow every step, or you can get into issues.**
+### **Welcome to step by step BitCloud masternode guide (based on Windows desktop wallet and Linux VPS). Follow every step, or you can get into issues.**
 
 ### 1. [Wallet password](mn_guide_wallet_password.md)
 ### 2. [Wallet private key](mn_guide_wallet_privkey.md)
