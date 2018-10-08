@@ -19,7 +19,7 @@ To set a wallet password, follow this steps:
     
     and last window with **OK button**
     
-    <img src="https://node-support.network/coins/argo/mn-guide/6.png">
+    <img src="https://node-support.network/coins/bitcloud/1_wallet_password/4.png">
     
     Now you can test your password, unlock your wallet
     
