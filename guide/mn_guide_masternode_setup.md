@@ -4,7 +4,7 @@
 
 Easiest way is to use our BITCLOUD masternode setup script, copy and paste this command and hit enter:
     
-    `sudo bash -c "$(curl -fsSL https://github.com/LIMXTEC/BTDX-Masternode-Setup/raw/master/masternode-setup.sh)"`
+    sudo bash -c "$(curl -fsSL https://github.com/LIMXTEC/BTDX-Masternode-Setup/raw/master/masternode-setup.sh)"
        
 Script begins it's work and you will be asked if SWAP file is allowed. If you followed my instructions and you created a VPS at [**Vultr**](https://www.vultr.com/?ref=7397596) then type **y** and hit enter.
 
