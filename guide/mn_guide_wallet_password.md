@@ -23,7 +23,7 @@ To set a wallet password, follow this steps:
     
     Now you can test your password, unlock your wallet
     
-    <img src="https://node-support.network/coins/argo/mn-guide/10.png">
+    <img src="https://node-support.network/coins/bitcloud/1_wallet_password/5.png?">
     
     You're finished, lock your wallet.
 
