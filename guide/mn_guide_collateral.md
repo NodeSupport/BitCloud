@@ -23,7 +23,7 @@ To run a masternode, you need to send 10000 BITCLOUD coins to a new generated wa
 
 2. Send 10000 BITCLOUD coins to new wallet address
 
-    Open tab **Send**, enter your new created wallet address in field **Pay To:**, the amount of 10000 BITCLOUD coins in field **Amount** and hit the button **Send**
+    Unlock your wallet and open tab **Send**, enter your new created wallet address in field **Pay To:**, the amount of 10000 BITCLOUD coins in field **Amount** and hit the button **Send**
     
     <img src="https://node-support.network/coins/bitcloud/4_collateral/5.png">
     
