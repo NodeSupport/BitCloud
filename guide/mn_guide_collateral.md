@@ -42,7 +42,7 @@ To run a masternode, you need to send 10000 BITCLOUD coins to a new generated wa
     
     you will see your collateral tx/txid output, like:
     
-    `"6aefa62c1bebd5248a873535e66544b3f4d850fb4cf1f6fa7f2747c95c37c4d9": "1"`
+    `"ed699683c4a8dd870f9730c1a03255457d56dbd073efba9886598c4751c2feb6" : "0"`
     
     which is needed for masternode.conf (will be needed later for wallet configuration)\
     Copy this collateral tx/txid to a text file
