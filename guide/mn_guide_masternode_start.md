@@ -41,15 +41,15 @@ now open **Debug Console**
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/6.png?">
 
-type `masternode start-alias mn01` and hit enter
+type `masternode start-alias mn01`, hit enter
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/7.png?">
 
-status of masternode in **Masternodes** tab will change to **WATCHDOG_EXPIRED**
+and you get an message, that your masternode is successfully started
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/8.png?">
 
-after ~ 30 mins masternode status should change to **ENABLED**
+close **Debug Console/Window** and check your masternode entry in **Masternodes** tab
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/9.png?">
 
