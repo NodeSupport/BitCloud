@@ -29,7 +29,7 @@ All informations should be added **in one line** to masternode.conf as you can s
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/3.png?">
 
-**Save the masternode.conf file**, close and start your wallet again. After starting wallet and goto **Masternodes** tab and you should see one entry
+**Save the masternode.conf file**, close and start your wallet again. Goto **Settings -> Options -> Wallet and enable Show Masternodes Tab** and hit **OK** button
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/4.png?">
 
