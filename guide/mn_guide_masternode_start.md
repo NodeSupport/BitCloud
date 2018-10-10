@@ -33,7 +33,7 @@ All informations should be added **in one line** to masternode.conf as you can s
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/4.png?">
 
-to start the masternode select the entry and hit **Start Alias** button
+Now goto **Masternodes** tab and you should see one entry
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/5.png?">
 
