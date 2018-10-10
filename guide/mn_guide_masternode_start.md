@@ -37,11 +37,11 @@ Now goto **Masternodes** tab and you should see one entry
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/5.png?">
 
-you will be asked if you want to start masternode, just hit **Yes** button
+now open **Debug Console**
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/6.png?">
 
-you get a confirmation that masternode is successfully started
+type `masternode start-alias mn01` and hit enter
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/7.png?">
 
