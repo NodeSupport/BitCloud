@@ -45,7 +45,7 @@ type `masternode start-alias mn01`, hit enter
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/7.png?">
 
-and you get an message, that your masternode is successfully started
+and you get a message, that your masternode is successfully started
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/8.png?">
 
