@@ -2,7 +2,7 @@
 
 ## Masternode start
 
-To start your masternode, open your wallet and goto **Tools -> Open Masternode Configuration File**
+To start your masternode, open your wallet and go to **Tools -> Open Masternode Configuration File**
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/1.png?">
 
@@ -29,11 +29,11 @@ All informations should be added **in one line** to masternode.conf as you can s
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/3.png?">
 
-**Save the masternode.conf file**, close and start your wallet again. Goto **Settings -> Options -> Wallet and enable Show Masternodes Tab** and hit **OK** button
+**Save the masternode.conf file**, close and start your wallet again. go to **Settings -> Options -> Wallet and enable Show Masternodes Tab** and hit **OK** button
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/4.png?">
 
-Now goto **Masternodes** tab and you should see one entry
+Now go to **Masternodes** tab and you should see one entry
 
 <img src="https://node-support.network/coins/bitcloud/7_masternode_start/5.png?">
 

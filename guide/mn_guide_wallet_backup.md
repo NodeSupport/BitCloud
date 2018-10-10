@@ -4,7 +4,7 @@
 Beside the key it is very important to backup your wallet!\
 To create a backup of your wallet (wallet.dat), follow this steps:
 
-1. Open your wallet, goto **File** -> **Backup Wallet**
+1. Open your wallet, go to **File** -> **Backup Wallet**
 
     <img src="https://node-support.network/coins/bitcloud/3_wallet_backup/1.png?">
     

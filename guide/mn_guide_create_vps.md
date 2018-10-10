@@ -19,11 +19,11 @@ First you need to create a VPS to go forward with this guide. I prefer to use [*
     
     <img src="https://node-support.network/coins/bitcloud/5_create_vps/3.png">
     
-    now goto **Server Size** and select a Server Type, I'm using the **25 GB SSD/5$ VPS** for my masternodes (If you choose smaller VPS, I can't guarantee that you won't get any issues with this guide)
+    now go to **Server Size** and select a Server Type, I'm using the **25 GB SSD/5$ VPS** for my masternodes (If you choose smaller VPS, I can't guarantee that you won't get any issues with this guide)
     
     <img src="https://node-support.network/coins/bitcloud/5_create_vps/4.png">
     
-    now goto **Server Hostname & Label** and enter **Server Hostname** and **Server Label** (_e.g. BITCLOUD-mn01_)
+    now go to **Server Hostname & Label** and enter **Server Hostname** and **Server Label** (_e.g. BITCLOUD-mn01_)
     
     <img src="https://node-support.network/coins/bitcloud/5_create_vps/5.png">
     

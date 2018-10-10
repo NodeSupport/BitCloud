@@ -3,7 +3,7 @@
 ## Collateral
 To run a masternode, you need to send 10000 BITCLOUD coins to a new generated wallet.
 
-1. To generate a new wallet address, open your wallet and goto **File** -> **Receiving addresses...**
+1. To generate a new wallet address, open your wallet and go to **File** -> **Receiving addresses...**
 
     <img src="https://node-support.network/coins/bitcloud/4_collateral/1.png">
     
@@ -36,7 +36,7 @@ To run a masternode, you need to send 10000 BITCLOUD coins to a new generated wa
     <img src="https://node-support.network/coins/bitcloud/4_collateral/7.png">
     
     Now you need to wait for 15 confirmations to get your collateral tx & collateral txid.\
-    **After 15 confirmations**, open debug console (goto **Tools** -> **Debug console**) and enter
+    **After 15 confirmations**, open debug console (go to **Tools** -> **Debug console**) and enter
     
     `masternode outputs`
     

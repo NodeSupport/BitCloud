@@ -3,7 +3,7 @@
 ## Wallet private key
 
 Owning your wallet private key is very important to be able to restore your coins without backup. To get your wallet private key, follow this steps:
-1. Open and unlock your wallet, then goto **File** -> **Receiving addresses**
+1. Open and unlock your wallet, then go to **File** -> **Receiving addresses**
 
     <img src="https://node-support.network/coins/bitcloud/2_wallet_privkey/1.png?">
 
@@ -13,7 +13,7 @@ Owning your wallet private key is very important to be able to restore your coin
 
     If you started your Bitcloud wallet 1st time, your main wallet label should be **(no label)**, you can everytime rename it --> Just double-click on label and set your label.
 
-2. Open Debug console (goto **Tools** -> **Debug console**)
+2. Open Debug console (go to **Tools** -> **Debug console**)
 
     <img src="https://node-support.network/coins/bitcloud/2_wallet_privkey/3.png?">
     

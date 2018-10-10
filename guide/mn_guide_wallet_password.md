@@ -5,7 +5,7 @@ Have an encrypted wallet is not just recommended, but should be done by every wa
 This is not a 100% protection, but an encrypted wallet with a good / strong password is more difficult to get hacked.
 To set a wallet password, follow this steps:
 
-1. Open your wallet, goto **Settings** -> **Encrypt Wallet**
+1. Open your wallet, go to **Settings** -> **Encrypt Wallet**
 
     <img src="https://node-support.network/coins/bitcloud/1_wallet_password/1.png?">
     
